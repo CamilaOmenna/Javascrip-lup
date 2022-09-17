@@ -1,0 +1,33 @@
+programa
+{
+	funcao inicio ()
+	{
+		
+		
+		inteiro numero 
+		
+		
+		escreva("\n Me informe um numero inteiro")
+		leia(numero)
+		  
+		  se (numero % 4==0){
+		  escreva("\n Caso o numero for")
+		  se ( numero <0){
+		  		escreva ("\n O número que você informou é negativo:")
+		  se senao 
+		        escreva ("\n O número que você informou e positivo:")
+				
+		  se senao 
+		        escreva ("\n O numero exatamente impar")
+				se (numero< 0)
+		  		escreva ("\n O numero e negativo")
+		  		
+		  		se senao ("\n O número é positiva")
+		  	}
+		  }
+		
+		
+		
+		
+	}
+}

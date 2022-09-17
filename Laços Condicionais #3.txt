@@ -1,0 +1,30 @@
+programa
+{
+	biblioteca inclua matematica -->mat
+	
+	funcao inicio ()
+	{
+		
+		real A1,B2,C3,D4,E1,F2,G3,H4
+		
+		escreva("\n Me informar os 4 números: ")
+		leia(A1,B2,C3,D4)
+		
+		E1= mat.potencia (A1,2.0)
+		F2= mat.potencia (B2,2.0)
+		G3= mat.potencia (C3,2.0)
+		H4= mat.potencia (D4,2.0)
+		
+		
+		se(G3>=1000){ escreva ("\n O valor do quadrado do número três é:",G3)
+		
+}senao { 
+		escreva("\n O número 1 exatamente:",A1,"e o seu quadrado é:",E1)
+		escreva("\n O número 2 exatamente:",B2,"e o seu quadrado é:",F2)
+		escreva("\n O número 3 exatamente:",C3,"e o seu quadrado é:",G3)
+		escreva("\n O número 4 exatamente:",D4,"e o seu quadrado é:", H4)
+		{
+			
+			
+		}	}
+}

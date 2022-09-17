@@ -1,0 +1,21 @@
+programa
+{
+	funcao inicio ()
+{
+		
+		inteiro E,N,T
+			
+				escreva ("n\Qual será o número de horas que trabalhamos:")
+				leia(N)
+				
+				se(N<=50){ salario = N*10 escreva("\n O salário que irá receber é :",salario," deu exatamente R$00,00:")
+				
+				
+				} se senao
+					
+					E= n-50
+					T=E*50
+					N=500+ T
+		
+		escreva ("\n O valor do seu salário é:R$",E,"com", N,"final")
+}

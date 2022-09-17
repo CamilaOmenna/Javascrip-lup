@@ -1,0 +1,26 @@
+programa
+{
+	funcao inicio ()
+	{
+		
+		inteiro numero 
+		escreva ("\n  Qual será o valor:")
+		leia (numero)
+		
+		se(numero> 100){
+			
+			escreva ("\n Caso o valor for maior que 100:")
+			se senao 
+			escreva("\n Caso o valor for menor que 100:")
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}
