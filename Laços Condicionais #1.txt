@@ -1,0 +1,26 @@
+programa
+{
+	funcao inicio ()
+{
+		
+		inteiro peso,multa,excesso
+		
+		
+		
+		escreva ("\n Qual é peso do tomate que o João vai levar:")
+		leia (peso)
+		
+		
+		se ( peso <=5){ escreva ("O valor do tomate zero:")
+			
+		}
+			senao se (peso > 50){ escreva("\nExecesso dos tomate foram alem:")
+				
+			multa = (peso -50)*4 escreva("\nMulta que o João derava pagar:",multa,"reais")
+			
+				
+				
+			}
+		
+		
+		
